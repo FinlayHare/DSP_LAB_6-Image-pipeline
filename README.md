@@ -8,4 +8,5 @@
 
   Possible improvements include using adaptive filtering for noise reduction and choosing advanced edge detection methods, while limitations exist in processing images with excessive noise or low contrast.
   
-<img width="2050" height="500" alt="Screenshot 2025-10-30 at 9 25 56" src="https://github.com/user-attachments/assets/a3f7b01a-7dc4-444d-b314-4f1b948fb5f1" />
+
+<img width="1544" height="568" alt="Screenshot 2025-11-06 at 10 08 08" src="https://github.com/user-attachments/assets/fd2f80ad-8722-4363-8772-483976dc658e" />
